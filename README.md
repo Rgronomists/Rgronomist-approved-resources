@@ -12,6 +12,9 @@ Learning tools that we have actually used and found that they worked
 ##Websites/Blogs
 [Karl Broman](http://kbroman.org/pages/tutorials)
 
+##Packages
+[swirl](http://swirlstats.com/)
+
 
 
 
