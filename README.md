@@ -11,6 +11,7 @@ Learning tools that we have actually used and found that they worked
 
 ##Websites/Blogs
 [Karl Broman](http://kbroman.org/pages/tutorials)
+[Learning R after Excel](https://gshotwell.github.io/Gordon_Shotwell/)
 
 ##Packages
 [swirl](http://swirlstats.com/)
